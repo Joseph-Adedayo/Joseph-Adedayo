@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and A.I**
 
-- 👨‍💻 Portfolio **Coming Soon...**
-
-- 💬 Ask me about **React, Python and all things Front-End.**
+- 💬 Ask me about **React, Python and all things Tech.**
 
 - 📫 How to reach me **yemi200237@gmail.com**
 
