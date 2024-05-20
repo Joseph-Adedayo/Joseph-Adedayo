@@ -3,7 +3,7 @@
 <h1> Joseph Adedayo</h1>
 <h3>A passionate and creative Software Developer with a flair for Front-End Design 🚀</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **New Web Designs**
 
 - 🌱 I’m currently learning **Machine Learning and A.I**
 
