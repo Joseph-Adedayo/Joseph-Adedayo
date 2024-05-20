@@ -3,11 +3,11 @@
 <h1> Joseph Adedayo</h1>
 <h3>A passionate and creative Software Developer with a flair for Front-End Design 🚀</h3>
 
-- 🔭 I’m currently working on **New Web Designs**
+- 🔭 I’m currently working on **Web Design**
 
 - 🌱 I’m currently learning **Machine Learning and A.I**
 
-- 💬 Ask me about **React, Python and all things Tech.**
+- 💬 Ask me about **React, NextJs, Python and all things Tech.**
 
 - 📫 How to reach me **yemi200237@gmail.com**
 
